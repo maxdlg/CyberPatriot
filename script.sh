@@ -3,7 +3,7 @@ sudo apt update
 echo "updated packages"
 sleep 1
 #Install some packages
-sudo apt install gufw clamav libpam-cracklib neovim
+sudo apt install gufw clamav libpam-cracklib neovim bum
 echo "Installed packages"
 sleep 1
 #Remove some packages
