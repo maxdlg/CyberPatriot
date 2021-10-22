@@ -1,4 +1,4 @@
-#DO THE FORENSICS QUESTIONS FIRST, THEN RUN THE SCRIPT
+###DO THE FORENSICS QUESTIONS FIRST, THEN RUN THE SCRIPT
 1. updates
     * settings => software and updates => updates
     * check for updates daily, download and install automatically security updates
